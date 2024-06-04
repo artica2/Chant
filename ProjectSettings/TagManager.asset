@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GigDetails
+  - GigPanel
+  - WelcomeScreen
+  - LiveMixesScreen
+  - LogoSwirl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Particles
+  - Water
+  - UI
+  - UI Top
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Top
+    uniqueID: 1892844877
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bottom
+    uniqueID: 3688186817
+    locked: 0

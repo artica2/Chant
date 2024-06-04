@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "173560704394",
+    "project_id": "chant-app-fcc98",
+    "storage_bucket": "chant-app-fcc98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173560704394:android:aada71ec7149d550972c73",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RTChant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173560704394-rf4g8t35thhq1t0a1h3ihs47nheffs2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9nJ6XCEOtREJzHhLPHyjSCG-VrClnNFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173560704394-rf4g8t35thhq1t0a1h3ihs47nheffs2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173560704394-3uhtnt7apr8a98ja73q9qpuqe393kvrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.RT-Chant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
